@@ -1,0 +1,19 @@
+Bread,4,€1000
+Apple,4,€0
+Pear,5,A Trip to Ireland
+Banana,5,A Trip to China
+Pasta,4,€15
+Peach,5,€0
+Fries,5,A Ferrari
+Water,5,A Trip to Canada
+Coca-cola,4,A Trip to Paris
+Mango,4,A €5 gift card
+Grape,4,A camping car
+Orange,4,€0
+Ham,5,A pair of Nike
+Tea,5,€0
+Coffee,4,A sauna
+Lemonade,4,A dirt bike
+Ham,5,A karting
+Oil,4,An Iphone X
+Vinegar,5,A trip to London
